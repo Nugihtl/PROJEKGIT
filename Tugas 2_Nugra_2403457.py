@@ -14,10 +14,7 @@ def login():
         input_username = input("Masukkan username: ")
         input_password = input("Masukkan password: ")
         
-        if input_username==username and input_password==password:
-            print("Login berhasil, selamat datang, Admin!")
-            return
-        elif input_password == password:
+        if input_password == password:
             print(f"Login berhasil, selamat datang {input_username}")
             return
         else:
