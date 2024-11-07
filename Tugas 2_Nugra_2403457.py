@@ -3,8 +3,8 @@
 # RPL 1 B
 
 def login():
-    username = "Daspro2023"
-    password = "Latihan"
+    username = "Daspro2024"
+    password = "Ujian"
     kesempatan = 3
     percobaan = 0
     
