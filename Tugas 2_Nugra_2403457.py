@@ -23,5 +23,5 @@ def login():
     
     print("Kesempatan anda sudah habis. Akses ditolak.")
     return
-
+print("waktu ujian 2 jam")
 login()
